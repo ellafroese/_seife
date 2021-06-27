@@ -52,6 +52,23 @@ ul {
   }
 
 
+  
+/* HOME SEITE -----------------------------------------------*/
+/*-----------------------------------------------------------*/
+.backgroundImage {
+    background-size: 1500px;
+}
+
+
+#h1Titel{
+    margin-top: 70px;
+    padding-left: 30px;
+  }
+
+  .ueberblick {
+      margin-top: 10px;
+      padding-left: 30px;
+  }
 
 
 /* ÜBER MICH SEITE ------------------------------------------*/
@@ -80,16 +97,3 @@ ul {
   }
 
 
-
-  
-/* HOME SEITE -----------------------------------------------*/
-/*-----------------------------------------------------------*/
-#h1Titel{
-    margin-top: 70px;
-    padding-left: 30px;
-  }
-
-  .ueberblick {
-      margin-top: 10px;
-      padding-left: 30px;
-  }
